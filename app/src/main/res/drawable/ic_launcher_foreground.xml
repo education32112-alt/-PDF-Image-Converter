@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        <!-- PDF Document Outline -->
+        <path
+            android:fillColor="#20FFFFFF"
+            android:strokeColor="#06B6D4"
+            android:strokeWidth="3.5"
+            android:strokeLineJoin="round"
+            android:pathData="M24,14 C24,10 27,7 31,7 L67,7 L85,25 L85,94 C85,98 82,101 78,101 L31,101 C27,101 24,98 24,94 Z" />
+        <!-- Fold Corner -->
+        <path
+            android:strokeColor="#06B6D4"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M67,7 L67,25 L85,25" />
+        <!-- Image Symbol inside Document -->
+        <path
+            android:fillColor="#2563EB"
+            android:pathData="M35,40 L73,40 A4,4 0 0,1 77,44 L77,74 A4,4 0 0,1 73,78 L35,78 A4,4 0 0,1 31,74 L31,44 A4,4 0 0,1 35,40 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M36,73 L49,56 L62,69 L67,63 L73,73 Z" />
+        <!-- Sun dot -->
+        <path
+            android:fillColor="#06B6D4"
+            android:pathData="M67,49 A4,4 0 1,0 67,48.9 Z" />
+    </group>
+</vector>

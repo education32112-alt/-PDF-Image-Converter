@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PDF &amp; Image Converter</string>
+    <string name="tagline">Convert, compress, and manage your documents.</string>
+    <string name="developer_name">Rana Hassan</string>
+    <string name="contact_email">support@educationwithhassan.com</string>
+
+    <!-- Google AdMob Publisher & Verified Production IDs -->
+    <string name="admob_publisher_id">pub-3133971041724338</string>
+    <string name="admob_app_id">ca-app-pub-3133971041724338~3095353960</string>
+    <string name="admob_banner_id">ca-app-pub-3133971041724338/7363444026</string>
+    <string name="admob_interstitial_id">ca-app-pub-3133971041724338/7664707251</string>
+    <string name="admob_rewarded_id">ca-app-pub-3133971041724338/7960667830</string>
+    <string name="admob_native_advanced_id">ca-app-pub-3133971041724338/9979879405</string>
+    <string name="admob_app_open_id">ca-app-pub-3133971041724338/5038543915</string>
+
+    <!-- Google Official Test IDs (Active in Debug builds to safeguard AdMob account) -->
+    <string name="admob_banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_test_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_rewarded_test_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_native_test_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_app_open_test_id">ca-app-pub-3940256099942544/9257395921</string>
+</resources>
